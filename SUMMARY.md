@@ -1,3 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Introduction](README.md)
+* [Array](array/README.md)
+  * [Page 2](array/page-2.md)
+* [Page 1](page-1.md)
